@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pxip9b9ea-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/pxip9b9ea-dotnet-basic-gitops
